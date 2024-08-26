@@ -1,5 +1,6 @@
 // Invert the binary tree
 // With Breadth first search
+
 import java.util.Queue;
 import java.util.LinkedList;
 
@@ -15,9 +16,6 @@ class TreeNode {
     }
 }
 
-/**
- * Main2
- */
 public class Main2 {
 
     public static TreeNode invertTree(TreeNode root) {

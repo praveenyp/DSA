@@ -1,5 +1,6 @@
 // Linked list life cycle
-    class ListNode {
+   
+class ListNode {
         int val;
         ListNode next;
 
